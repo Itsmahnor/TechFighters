@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaFacebook, FaInstagramSquare, FaWhatsapp } from "react-icons/fa";
-
+import logo from '../Navbar/Images/logo.png';
 const Footer = () => {
   return (
     <footer className="pt-8 text-white text-lg" style={{ backgroundColor: "#04211e" }}>

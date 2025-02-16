@@ -10,7 +10,7 @@ import Offcanvas from 'react-bootstrap/Offcanvas';
 import { Link } from 'react-router-dom';
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { coursesData } from './Bottom';
-import tech from './Images/tech.jpeg'
+
 
 
 
