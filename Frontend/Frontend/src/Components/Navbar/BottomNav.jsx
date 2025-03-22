@@ -55,8 +55,8 @@ export const BottomNav = () => {
     <div className='w-[100vw] h-[16vh] bg-white flex justify-center items-center text-[#6247AA] font-bold text-[1.4rem]'>
       <div className='w-[80vw] flex justify-around bottom'>
         {/* Logo Section */}
-        <div className='w-[280px] h-[140px] lg:h-[120px] p-[15px] flex justify-center items-center'>
-          <img src={tech} alt="Logo" className='h-[100%] object-cover' />
+        <div className='w-[130px] h-[130px] lg:h-[120px] lg:w-[120px] p-[15px] flex justify-center items-center'>
+          <img src={tech} alt="Logo" className='' />
         </div>
 
         {/* Navigation Links */}
